@@ -1,0 +1,10 @@
+{
+  "@class" : "org.apereo.cas.services.OidcRegisteredService",
+  "clientId": "client-test-openid",
+  "clientSecret": "secret",
+  "serviceId" : "https://www.google.be",
+  "signIdToken": false,
+  "name": "OIDC",
+  "id": 10025,
+  "evaluationOrder": 103
+}
